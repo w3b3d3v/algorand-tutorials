@@ -1,8 +1,8 @@
-# REPOSITÓRIO DO VIDEO DA TESTNET DA ALGORAND COM O JAVASCRIPT -  WEB3DEV
+# REPOSITÓRIO DO VIDEO DA TESTNET DA ALGORAND COM O GOLANG -  WEB3DEV
 
 Link dos videos</br>
-Parte 1: https://www.youtube.com/watch?v=BzuQjtP6xak</br>
-Parte 2: https://www.youtube.com/watch?v=hkfZMxaYk6c
+Parte 1: Ainda não saiu</br>
+Parte 2: Ainda não saiu
 
 ## Requisitos para rodar o código
 
@@ -12,9 +12,9 @@ Parte 2: https://www.youtube.com/watch?v=hkfZMxaYk6c
 
 ## Como rodar o código
 
-- Abra o terminal e digite "git clone https://github.com/guilhermeboaventurarodrigues/algorand-js-web3dev.git"
-- Vá para o diretorio clonado, digitando no terminal "cd algorand-js-web3dev"
-- Instale as dependências, digitando no terminal "npm install"
+- Abra o terminal e digite "git clone https://github.com/w3b3d3v/algorand-tutorials.git"
+- Vá para o diretorio clonado, digitando no terminal "cd algorand-js-web3dev" e depois para a pasta desejada
+- Inicie o código com "go run main.go"
 
 ## Explicando o código
 
