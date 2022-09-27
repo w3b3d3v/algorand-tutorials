@@ -1,5 +1,9 @@
 # REPOSITÓRIO DO VIDEO DA TESTNET DA ALGORAND COM O JAVASCRIPT -  WEB3DEV
 
+Link dos videos
+Parte 1: https://www.youtube.com/watch?v=BzuQjtP6xak
+Parte 2: https://www.youtube.com/watch?v=hkfZMxaYk6c
+
 ## Requisitos para rodar o código
 
 - Sandbox da Algorand instalada no docker
